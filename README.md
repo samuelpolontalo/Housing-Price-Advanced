@@ -97,7 +97,7 @@ Here's a brief version of what you'll find in the data description file.
 * **PoolQC**: Pool quality
 * **Fence**: Fence quality
 * **MiscFeature**: Miscellaneous feature not covered in other categories
-* **MiscVal**: $Value of miscellaneous feature
+* **MiscVal**: Value of miscellaneous feature
 * **MoSold**: Month Sold
 * **YrSold**: Year Sold
 * **SaleType**: Type of sale
